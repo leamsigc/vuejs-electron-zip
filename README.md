@@ -1,5 +1,9 @@
 # vue-electron-zip
-
+### to start electron app
+```
+    npm run electron:serve
+```
+![vuejs-electron-app](/public/img/vuejs-zip-electron.png)
 ## Project setup
 ```
 npm install
